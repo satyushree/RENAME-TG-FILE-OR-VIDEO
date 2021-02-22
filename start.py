@@ -132,7 +132,7 @@ async def handler(event):
         print ("gg")
         r = requests.get(link)
         with open("./Download/"+filename, 'wb') as f:
-        for chunk in r.iter_content(chunk_size=1024): 
+        for chunk in r.iter_content(chunk_size=128): 
             if chunk: # filter out keep-alive new chunks
                 f.write(chunk)
         #ss = await client.send_message(chat,"file uploading to telegram")
