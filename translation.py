@@ -2,7 +2,7 @@ class Translation(object):
     START_TEXT = """Hello,
 I am Telegram Video/File Rename Bot! Created by @shreevish
 Please send me any Tg Videos/Files,Reply it as name.extension .
- 🚨 . . . Note : its support almost all files exept pdisk files . . . 🚨
+ 🚨 ... Note : its support almost all files exept pdisk files ... 🚨
  
 🚨 PRON video🔞 gives you PERMANENT BAN 🚨
        ┈┈┈••💙✿❤️✿💚••┈┈┈
