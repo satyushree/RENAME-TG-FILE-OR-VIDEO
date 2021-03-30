@@ -33,6 +33,8 @@ from hachoir.parser import createParser
 from PIL import Image
 from database.database import *
 
+from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
+from pyrogram.errors import UserNotParticipant, UserBannedInChannel
 
 """@pyrogram.Client.on_message(pyrogram.filters.command(["rename"]))
 async def rename_doc(bot, update):
