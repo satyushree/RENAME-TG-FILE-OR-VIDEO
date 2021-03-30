@@ -54,11 +54,6 @@ async def rename_doc(bot, update):
                 )
             )
             return
-          
-            return
-        except Exception:
-            await update.reply_text("Something Wrong. Contact my Support Group")
-            return
         description = Translation.CUSTOM_CAPTION_UL_FILE
         download_location = Config.DOWNLOAD_LOCATION + "/"
         a = await bot.send_message(
