@@ -33,7 +33,7 @@ URL-UPLOADER bot created by @shreevish"""
 ✍️ If any issue Please contact @shreevish
 """
     
-    CURENT_PLAN_DETAILS = """⭕️<b>My Name : URL-UPLOADER</b>
+    CURENT_PLAN_DETAILS = """⭕️<b>My Name : RENAME-TG-FILE-OR-VIDEO</b>
 ⭕️<b>Creater :</b> @shreevish
 ⭕️<b>Language :</b> <code>Python3</code>
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
