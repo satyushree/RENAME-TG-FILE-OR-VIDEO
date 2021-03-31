@@ -32,6 +32,13 @@ URL-UPLOADER bot created by @shreevish"""
 
 ✍️ If any issue Please contact @shreevish
 """
+    
+    CURENT_PLAN_DETAILS = """⭕️<b>My Name : URL-UPLOADER</b>
+⭕️<b>Creater :</b> @shreevish
+⭕️<b>Language :</b> <code>Python3</code>
+⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+⭕️<b>Source Code :</b> 👉 <a href='https://telegram.dog/All_Movie_rockers'>Click Here</a>"""
+    
     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply to a Telegram media to `/rename New Name.extension` with custom thumbnail support.."
     ABUSIVE_USERS = "You are not allowed to use this bot. If you think this is a mistake, please check /me to remove this restriction."
     FREE_USER_LIMIT_Q_SZE = """"""
